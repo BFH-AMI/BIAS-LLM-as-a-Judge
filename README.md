@@ -9,9 +9,10 @@ This system evaluates LLM answers for bias, inclusivity, and stereotype-free lan
 
 ## Citation
 
-If you use this evaluation system in your research, please cite: TODO add Pre-Print Link here.
+If you use this evaluation system in your research, please cite:
+Kurpicz-Briki, M., Ecclesia, S., Englund Sandvik, F., Sørensen, S. Ø., Ikae, C., Puttick, A., Kharas, M., & Søraa, R. A. (2026). Be Less BIASed: With a Research-Inspired Multi-Model Pipeline Towards Less Biases in LLM Outputs. Zenodo. https://doi.org/10.5281/zenodo.18252585
 
-### Key Features
+## Key Features
 
 - **Multi-Criteria Evaluation**: Evaluates prompts on three dimensions:
   - No Stereotypes (bias detection)
